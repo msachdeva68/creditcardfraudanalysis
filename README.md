@@ -14,7 +14,7 @@ This project aims to develop a credit card fraud prediction system using machine
 
 
 ## Table of Contents
-- [Business Problem](#businessproblem)
+- [Business Problem](#business_problem)
 - [Dataset](#dataset)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -25,7 +25,7 @@ This project aims to develop a credit card fraud prediction system using machine
 - [Acknowledgments](#acknowledgments)
 
 
-## Business Problem
+## Business_Problem
 
 A credit card is one of the most used financial products to make online purchases and payments. Though the Credit cards can be a convenient way to manage your finances, they can also be risky. Credit card fraud is the unauthorized use of someone else's credit card or credit card information to make purchases or withdraw cash.
 

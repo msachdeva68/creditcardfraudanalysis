@@ -14,7 +14,7 @@ This project aims to develop a credit card fraud prediction system using machine
 
 
 ## Table of Contents
-- [Business Problem](#business problem)
+- [Business Problem](#businessproblem)
 - [Dataset](#dataset)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)

@@ -6,7 +6,7 @@
 # Credit Card Fraud Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msachdeva68/Credit_Card_Fraud_Prediction/blob/main/Prediction_of_Credit_Card_Fraud.ipynb)
+
 
 
 This project aims to develop a credit card fraud prediction system using machine learning techniques. The goal is to create a model that can effectively identify and flag potential instances of credit card fraud based on historical transaction data.

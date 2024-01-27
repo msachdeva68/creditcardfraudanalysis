@@ -45,11 +45,13 @@ Python 3.10.12
 
 numpy 1.23.5
 
-matplotlib
+matplotlib 3.7.1
 
-seaborn
+seaborn 0.13.1
 
-sklearn
+sklearn 1.2.2
+
+
 
 
 ### Installation

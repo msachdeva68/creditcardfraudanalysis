@@ -6,6 +6,9 @@
 # Credit Card Fraud Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Colab Logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msachdeva68/creditcardfraudanalysis/blob/main/creditcardfraudanalysis.ipynb)
+
+
 
 
 

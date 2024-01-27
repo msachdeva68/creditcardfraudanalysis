@@ -83,15 +83,18 @@ Check and run the code by following these general steps:
 
 ## Usage
 
-[Explain how to use your project. Include examples and demonstrate common use cases.]
+We have build a model the check the credibility of a person using credit card. It will help us to track down the fraud transcation goin on regular basis. 
+We tried using multiple model to find the best model to predict the transction status.
 
 ## Features
 
-[List and describe the main features of your project.]
+We have a imbalance dataset so we took sample from high target feature and joined the both target feature.
+After the we used random forest classifier, decision tree classifer, Logistic Regression, KNeighbors Classifier and XG Boost. We have found Logistic Regression and XG Boost gave as the best resul so far. 
+So we are going to use XG Boost as a prediction model for future references.
 
 ## Contributing
 
-[Explain how others can contribute to your project. Include information about the development environment, coding standards, and how to submit pull requests.]
+Anyone who like to give us any suggestion or recommendation based on our model. We really appreciate and ready to get that for futur references.
 
 ## License
 

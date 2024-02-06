@@ -123,6 +123,5 @@ Learn more about the [MIT License](LICENSE)
 
 ## Acknowledgments
 
-[Give credit to any resources, libraries, or individuals you used or were inspired by during the development of your project.]
-
+I have a learnt alot while doing this project and many more I need to understand.
 
